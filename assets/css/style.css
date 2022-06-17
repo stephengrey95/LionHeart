@@ -1,0 +1,430 @@
+
+.wait-one {
+    color: #FF0000;
+    text-align: center;
+    font-size: 48px;
+}
+.sleep-3 {
+    text-align: center;
+    height: 450px;
+}
+.open-lock {
+    padding-left: 40px;
+    padding-right: 20px;
+    margin-left: -20px !important;
+    background-color: #fff;
+}
+.locked {
+    /* margin-top: -25px; */
+}
+.badge img {
+    width: 170px;
+    height: 170px;
+}
+.rgb {
+    /* margin-left: -40px; */
+}
+.bg-leaf {
+    background-image: url(../images/Mask\ Group\ 84@2x.png);
+    background-repeat: no-repeat;
+    background-color: #E7DDF5;
+}
+.encryption {
+    padding: 10px;
+    background-color: #fff;
+
+}
+.white-back {
+    background-color: #fff;
+}
+.add-only {
+    font-size: 60px;
+    color: #FFDA44;
+}
+.bott-3 {
+    font-size: 50px;
+    color: #FFDA44;
+    margin-top: -15px;
+}
+.and-get {
+    font-size: 35px;
+    color: #FFDA44;
+    margin-top: -10px;
+}
+.purple-bg {
+    background-color: #5F4385;
+}
+.retail {
+    font-size: 20px;
+    color: #fff;
+}
+.dollar {
+    text-decoration: line-through;
+    color: #ff0000;
+}
+.price-per {
+    font-size: 25px;
+    color: #fff;
+}
+.twenty-four {
+    font-size: 100px;
+    color: #fff;
+}
+.zero {
+    color: #fff;
+    font-size: 55px;
+}
+.freeship {
+    font-size: 25px;
+    color: #fff;
+}
+.yellow-box {
+    background-image: linear-gradient(#FFCC00,#FFAA00);
+    background-repeat: no-repeat;
+    align-items: center;
+    border-radius: 10px;
+    border: 4px solid #FFE131;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    width: 50%;
+}
+.yellow-box:hover {
+    cursor: pointer;
+    background-image: linear-gradient(89deg,#c68a06 0%,#ee9100 100%)!important;
+}
+.yellow-text {
+    color: #fff;
+    font-size: 19px;
+    text-align: center;
+    /* width: 80%; */
+}
+.total {
+    font-size: 20px;
+    color: #fff;
+    padding-bottom: 50px;
+}
+/* .no-thanks-container {
+    border: 1px solid #ccc;
+} */
+
+.no-thanks {
+    background-image: linear-gradient(#B9B9B9,#969696);
+    background-repeat: no-repeat;
+    height: 66px;
+    border-radius: 10px;
+    min-width: 200px;
+    margin: auto;
+    text-align: center;
+    font-size: 22px;
+    color: #fff;
+}
+.no-thanks:hover {
+    background-image: linear-gradient(89deg,#c68a06 0%,#ee9100 100%)!important;
+    cursor: pointer;
+}
+
+
+/* FOOTER */
+.headfoot {
+    background-color: #585858;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.set {
+    margin-right: 30px;
+}
+.tiny-icon {
+    width: 39px;
+    height: 29px;
+    padding-right: 10px;
+}
+.texts {
+    color: #fff;
+}
+.newday-foot {
+    max-width: 239px;
+    margin-right: 50px;
+    margin-top: 60px;
+}
+.whole {
+    margin-left: 50px;
+    color: #fff;
+}
+.terms {
+    /* padding-right: 10px; */
+    padding: 0px 10px;
+}
+.terms:hover {
+    cursor: pointer;
+    color: #FF9432;
+}
+.last-one {
+    font: 12px;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.last-time {
+    text-align: center;
+}
+.blueback {
+    background-color: #5F4385;
+}
+.border-r {
+    border-right: 1px solid #fff;
+}
+.for-product {
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.last-one-font {
+    font-size: 15px;
+}
+
+/* start 3rdpage */
+.on-this {
+    background-color: #313F6B;
+    border: 1px solid #A8A8A8;
+    border-bottom: 0px;
+    text-align: center;
+    font-size: 26px;
+    color: #fff;  
+    padding: 10px;
+    line-height: 1;
+}
+.bg-light {
+    background-color: #F7F7F7;
+}
+.doctor-6-container {
+    min-width: 330px;
+    min-height: 330px;
+}
+.blue-bordered-box {
+    border: 1px solid #419DCF;
+}
+.rise-bottle-6-container {
+    min-width: 338px;
+    min-height: 328px;
+    margin: 20px;
+    margin-top: 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.truth-center {
+    color: #313F6B;
+    font-size: 35px;
+}
+.processed {
+    color: #000;
+    width: 90%;
+}
+.so-cong {
+    color: #313F6B;
+    font-size: 25px;
+}
+.many-phyto {
+    color: #313F6B;
+    font-size: 25px;
+    width: 65%;
+}
+.first-of {
+    color: #000000;
+    font-size: 20px;
+}
+.first-let {
+    color: #313F6B;
+    font-size: 35px;
+    padding-left: 30px;
+    padding-top: 20px;
+    width: 56%;
+}
+.you-see {
+    color: #000000;
+    font-size: 20px;
+    width: 50%;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+.light-bg {
+    background-color: #D9E9F8;
+}
+.dropper {
+    position: absolute;
+    right: -10px;
+}
+.editted-drop {
+    height: 730px;
+}
+.drop-image {
+    position: relative;
+}
+.pads-left {
+    display: flex;
+    justify-content: flex-end;
+}
+.heres-why {
+    font-size: 25px;
+    color: #313F6B;
+    
+}
+.cannabinoids {
+    color: #000;
+    font-size: 19px;
+}
+.less-top {
+    margin-top: -20px;
+}
+.when-you {
+    color: #000000;
+    font-size: 19px;
+}
+.with-that {
+    color: #313F6B;
+    font-size: 35px;
+}
+.we-got {
+    color: #000000;
+    font-size: 19px;
+    width: 73%;
+}
+.wont-pay-container {
+    background-image: url(../images/Mask\ Group\ 81.png);
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top right;
+}
+.back-smile {
+    background-image: url(../images/Mask\ Group\ 82.png);
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: flex-end;
+    flex-direction: row;
+    display: flex;
+    margin-top: -45px;
+}
+.ever-been {
+    font-size: 25px;
+    color: #313F6B;
+}
+.you-need {
+    font-size: 18px;
+}
+.why-are {
+    font-size: 35px;
+    color: #313F6B;
+    padding: 50px;
+    line-height: 1.2;
+    
+}
+.its-simple {
+    font-size: 20px;
+    color: #000;
+    padding: 0px 50px;
+}
+.plus-it {
+    font-size: 25px;
+    color: #313F6B;
+    width: 80%;
+    padding-top: 20px;
+}
+.not-to {
+    font-size: 20px;
+    color: #000;
+    width: 90%;
+}
+.this-amazing {
+    font-size: 20px;
+    color: #000;
+    background-color: #FFDA44;
+    padding: 10px;
+    width: 90%;
+}
+.so-please {
+    font-size: 25px;
+    color: #313F6B;
+    width: 70%;
+}
+.and-just {
+    font-size: 20px;
+    color: #000;
+    width: 93%;
+}
+.double-pad {
+    padding: 0px 30px;
+    background-color: #fff;
+}
+.bg-blues {
+    background-color: #D9E9F8;
+    padding: 0px 30px;
+    padding-top: 20px;
+}
+.simply {
+    font-size: 25px;
+    color: #313F6B;
+}
+.all-in {
+    font-size: 35px;
+    color: #313F6B;
+    padding: 0px 190px;
+}
+.i-said {
+    font-size: 25px;
+    color: #313F6B;
+}
+.recap {
+    font-size: 20px;
+    color: #000;
+    width: 60%;
+}
+.add-six {
+    font-size: 25px;
+    color: #313F6B;
+    width: 57%;
+}
+.meaning {
+    font-size: 20px;
+    color: #000;
+    width: 55%;
+}
+.bg-white {
+    background-color: #fff;
+    padding: 10px 20px;
+}
+.six-bott {
+    position: relative;
+}
+.six-abs {
+    position: absolute;
+    right: 30px;
+    top: -50px;
+}
+.ensure {
+    font-size: 35px;
+    color: #313F6B;
+    width: 75%;
+}
+.click-the {
+    font-size: 20px;
+    color: #000;
+    width: 85%;
+}
+.this-product {
+    font-size: 15px;
+    color: #fff;
+}
+.dark-blue {
+    background-color: #313F6B;
+}
+.sparrow {
+    color: #fff;
+    font-size: 15px;
+}
+/* end 3rdpage */

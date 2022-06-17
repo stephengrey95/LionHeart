@@ -1,0 +1,108 @@
+a {
+    text-decoration: none;
+}
+.box-shadow {
+    box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;
+}
+.container {
+    max-width: 1200px;
+    padding: 0;
+}
+
+.border-test {
+    border: 5px solid blue;
+}
+
+.main-padder, .section-padder {
+    padding: 20px 40px; 
+}
+.center-t {
+    text-align: center;
+}
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url(../font/OpenSans-Bold.ttf);
+}
+.ff-OpenSans-Bold {
+    font-family: "OpenSans-Bold";
+}
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(../font/OpenSans-Regular.ttf);
+}
+.ff-OpenSans-Regular {
+    font-family: "OpenSans-Regular";
+}
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(../font/Roboto-Regular.ttf);
+}
+.ff-Roboto-Regular {
+    font-family: "Roboto-Regular";
+}
+
+/* Width */
+.width-40-percent {
+    width: 40%;
+}
+.width-45-percent {
+    width: 45%;
+}
+.width-50-percent {
+    width: 50%;
+}
+.width-55-percent {
+    width: 55%;
+}
+.width-60-percent {
+    width: 60%;
+}
+.width-65-percent {
+    width: 65%;
+}
+.width-70-percent {
+    width: 70%;
+}
+.width-80-percent {
+    width: 80%;
+}
+.width-85-percent {
+    width: 85%;
+}
+.width-90-percent {
+    width: 90%;
+}
+
+.px-5 {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+}
+
+/* Font Sizes */
+.fs-50 {
+    font-size: 50px;
+}
+.fs-45 {
+    font-size: 45px;
+}
+.fs-26 {
+    font-size: 26px;
+}
+.fs-20 {
+    font-size: 20px;
+}
+
+/* Padding */
+.no-padding-bottom {
+    padding-bottom: 0px !important;
+}
+
+/* Border */
+.no-border-right {
+    border-right: 0px;
+}
+
+/* Margin */
+.no-margin-bottom {
+    margin-bottom: 0px;
+}
